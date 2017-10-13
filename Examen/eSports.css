@@ -1,0 +1,58 @@
+ul {
+    font-family: Trebuchet MS;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b56969;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+body{
+    background-color: #333;
+}
+
+a{
+    color:#b56969;
+}
+
+h2{
+    font-family: Trebuchet MS;
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+}
+
+#Titulo{
+    font-family: Trebuchet MS;
+    font-size: 20px;
+    color: #85C1E9;
+    font-weight: bold;
+}
+
+#Texto{
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: white;
+}
+
+footer{
+    color: white;
+}
